@@ -42,7 +42,7 @@ finsi
 
 // mostrar el numero mayor y menor
 mostrar " la mayor edad es: ", mayor
-mostrar " el menor edad ed: 2, menor
+mostrar " el menor edad ed: ", menor
 
 //determinar si cada edad es mayor o menor de 18 años	
 	Escribir "estado de las edades: " 
