@@ -1,11 +1,18 @@
-//analisis
-// definiciondel problema: 
+// Analisis
+// definicion del problema: definir el mayor y menor de 3 edades y verificar si las 3 edades son mayores o menores de edad
+// datos de entrada : se solicitara aal usuario que ingrese 3 edades
+// informacionde salida : mayor y menor de las 3 edades, mayor de 18 años y menor de 18 años de las 3 edades
+// variables: edad1, edad2, edad3 como entero
 
+// Diseño
+// Definir variables
+// pedir al usuario ingresar las 3 edades
+// leer las edades
+// proceso de comparacion de edades
+// verificar si es mayor o menor de dad
+// mostrar en pantalla cual de las 3 edades es mayor y cual es menor y verificar si es mayor o menor dedad de las 3 edades ingresadas
 
-
-
-
-
+// Pseudocodigo
 
 Algoritmo MayorEdad
 	definir edad1, edad2,edad3 Como Entero
@@ -37,6 +44,6 @@ Algoritmo MayorEdad
 	Escribir " estado de las edades: " 
 	escribir "edad 1:", si edad1 >= 18 entonces "es mayor de edad" sino "es menor de edad" finsi
 	Escribir "edad 2:", si edad2 >= 18 entonces "es mayor de edad" sino "es menor de edad" finsi
-	Escribir "edad 3:", si edad3 >= 18 Entonces "es mayor de edad" sino " es menor de edad" finsi 
+	Escribir "edad 3:", si edad3 >= 18 Entonces "es mayor de edad" sino "es menor de edad" finsi 
 	
 FinAlgoritmo
